@@ -1,5 +1,5 @@
 # GalleryApp
-This repository contains a Gallery app built with Jetpack Compose and MVVM architecture
+This repository contains a Gallery app built with Jetpack Compose and MVVM architecture.
 The goal is to display list of photos along with an option to mark the photos as Favorites and diplay them in another screen.
 
 This app showcase the use of Jetpack Compose, Material components, UI state handling, Dependency Injection and implementing Room, Retrofit and Repository Pattern.
