@@ -31,3 +31,18 @@ Images are sourced from https://picsum.photos/ and loaded using coil.
 Favorites are stored in the Room database.
 We add an entry in the database when user adds any photo as favorite and remove the entry when user unselects it.
 
+## Libraries used
+
+- UI - Jetpack Compose, Material3
+- Concurrency - Coroutines, Flow
+- Storage - Room database
+- Network calls - Retrofit
+- DI - Dagger-Hilt
+- Image Loading - Coil
+
+Testing libraries:
+- Mocking - Mokito
+- Web server - MockWebServer
+- Flow - Turbine
+- Assertion - Google Truth
+
