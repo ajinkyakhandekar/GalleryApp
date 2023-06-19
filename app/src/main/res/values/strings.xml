@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Storelab Code Test</string>
+    <string name="reader">Reader</string>
+    <string name="writer">Writer</string>
+    <string name="images">Images</string>
+    <string name="navigation_icon">Navigation Icon</string>
+    <string name="photos">Photos</string>
+    <string name="favotite_icon">Favorite Icon</string>
+    <string name="loading">Loading…</string>
+    <string name="empty_favorites_message">No favorites available.\nPlease add favorites from Gallery</string>
+    <string name="empty_gallery_message">No photos found</string>
+    <string name="gallery">Gallery</string>
+    <string name="favorite">Favorite</string>
+
+</resources>
