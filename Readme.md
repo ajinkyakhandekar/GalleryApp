@@ -14,7 +14,7 @@ It is also supported by Unit tests for viewmodels, repository & data sources
 
 ## Features
 
-The Gallery App contains 1 [Home](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/home) screen which contains 2 Bottom Navigation Tabs - [Gallery](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/gallery) & [Favorites](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/favorite)
+The Gallery App contains [Home](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/home) screen which contains 2 Bottom Navigation Tabs - [Gallery](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/gallery) & [Favorites](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/favorite)
 
 - [Home](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/home) - Screen that host bottom navigation tabs and the corresponding screens
 
