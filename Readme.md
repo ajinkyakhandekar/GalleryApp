@@ -14,14 +14,14 @@ It is also supported by Unit tests for viewmodels, repository & data sources
 
 ## Features
 
-The Gallery App contains 1 home screen which contains 2 Bottom Navigation Tabs - Gallery & Favorites
+The Gallery App contains 1 [Home](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/home) screen which contains 2 Bottom Navigation Tabs - [Gallery](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/gallery) & [Favorites](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/favorite)
 
-- Home - Screen that host bottom navigation tabs and the corresponding screens
+- [Home](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/home) - Screen that host bottom navigation tabs and the corresponding screens
 
-- Gallery - Where we display list (2 column grid) of Photos
+- [Gallery](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/gallery) - Where we display list (2 column grid) of Photos
 User can add or remove the photos as Favorites
 
-- Favorites - Where we display list (2 column grid) of Photos that are marked as Favorites by the user
+- [Favorites](https://github.com/ajinkyakhandekar/GalleryApp/tree/master/app/src/main/java/com/storelab/codetest/presentation/favorite) - Where we display list (2 column grid) of Photos that are marked as Favorites by the user
 User can add or remove the photos as Favorites and it will be reflected on gallery screen as well
 
 
